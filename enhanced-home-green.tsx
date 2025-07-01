@@ -212,7 +212,6 @@ export default function EnhancedHomeGreen() {
           <div>
             <h3 className="font-bold text-lg mb-4 text-green-700">Kontakt</h3>
             <p>E-post: kontakt@konnekta.no</p>
-            <p>Telefon: +47 123 45 678</p>
           </div>
 
           <div>
