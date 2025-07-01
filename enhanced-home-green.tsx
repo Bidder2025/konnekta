@@ -95,14 +95,13 @@ export default function EnhancedHomeGreen() {
         <h2 className="text-3xl font-bold text-center mb-6 text-green-700">Om oss</h2>
         <div className="p-6 bg-gradient-to-br from-green-50 to-blue-50 rounded-2xl shadow-md">
           <p className="text-lg text-gray-700 text-center">
-            Vi er et fargerikt og moderne callsenter som hjelper din bedrift å vokse gjennom målrettet kommunikasjon.
+            Vi er et moderne callsenter som hjelper din bedrift å vokse gjennom målrettet kommunikasjon.
           </p>
           <p className="text-lg text-gray-700 text-center mt-4">
-            Med over 10 års erfaring i bransjen har vi utviklet effektive metoder for å nå ut til potensielle kunder,
-            booke kvalifiserte møter og levere førsteklasses kundeservice.
+            Etter over 10 år i bransjen vet vi hva som fungerer. Vi hjelper deg med å nå riktige folk, booke gode møter og gi kundene dine en god opplevelse.
           </p>
           <p className="text-lg text-gray-700 text-center mt-4">
-            Vårt team består av dyktige kommunikatører som brenner for å skape resultater for våre kunder.
+            Hos oss jobber folk som virkelig kan snakke med mennesker – og som bryr seg om å skape resultater.
           </p>
         </div>
       </section>
