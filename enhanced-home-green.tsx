@@ -52,7 +52,7 @@ export default function EnhancedHomeGreen() {
           <p className="text-white text-xl mb-8 max-w-2xl mx-auto">
             Profesjonell telefonkommunikasjon som gir resultater for din bedrift
           </p>
-          <Link href="/bli-med">
+          <Link href="/#kontakt">
             <button className="bg-gradient-to-r from-green-500 to-green-600 text-white px-8 py-4 rounded-full text-lg hover:from-green-600 hover:to-green-700 transition shadow-lg">
               Bli med på laget
             </button>
